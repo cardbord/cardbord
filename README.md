@@ -4,10 +4,10 @@ enjoy your stay
 
 ### what i'm working on
 
-> dCBH (maybe i'll finish it one day)
->
+> dCBH (maybe i'll finish it one day),
+
 > hypie/hyperbot
->
+
 > my other python junk
->
+
 > some funny little js projects
